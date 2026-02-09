@@ -26,8 +26,8 @@ modules:
     sources:
      - type: git
        url: https://github.com/keshavbhatt/colorsmith.git
-       tag: v1.0.1
-       commit: 434a54dcd8dfb6075daa252e81c63ba710045f72
+       tag: v1.1.0
+       commit: bee669e1afa734fa8f61bc1f9cb7fbf23ae2e839
        x-checker-data:
           type: git
           tag-pattern: ^(v[\d.]+)$
